@@ -1,0 +1,61 @@
+<section>
+  <div class="container-fluid">
+    <h3 class="text-center pt-md-4">Nasze realizacje</h3>
+    <div class="container my-3" style="background-color: #c00000; padding-top: 2px; width: 3%;"></div>
+    <div class="row">
+      <div class="col-lg-6">
+        <div class="card" style="width:200px; height:150px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 150px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 1</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+        <div class="card mt-2" style="width:200px; height:150px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 150px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 2</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+        <div class="card mt-2" style="width:200px; height:300px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 300px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 2</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+      </div>
+      <div class="col-lg-6">
+        <div class="card" style="width:200px; height:150px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 150px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 1</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+        <div class="card mt-2" style="width:200px; height:150px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 150px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 2</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+        <div class="card mt-2" style="width:200px; height:300px !important; border-radius: 20px !important;">
+          <img class="card-img-top" src="img/ferrco_nasze_realizacje_img1.png" alt="Card image" style="height: 300px;">
+          <div class="card-img-overlay">
+            <h4 class="card-title" style="color: white; font-size: small !important;">Album 2</h4>
+            <div style="background-color: #fff; padding-top: 2px; width: 32%; margin-top: -5px;"></div>
+            <a href="#" class="btn btn-primary mt-2">See Profile</a>
+          </div>
+        </div>
+      </div>
+      </div>
+    </div>
+  </div>
+</section>

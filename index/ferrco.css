@@ -1,0 +1,94 @@
+/* Navbar */
+.nav-link:hover{
+    color: #c00000 !important;
+}
+.dropdown-menu{
+    border: 0px solid !important;
+    border-radius: 0% !important;
+    border-top: 2px solid #c00000 !important;
+}
+.dropdown-menu a:hover{
+    color: white !important;
+    background-color: #c00000 !important;
+}
+
+/* Carousel */
+
+/* Ferrco info */
+.button_css{
+    width: 40%;
+    background-color: #c00000 !important;
+    border-radius: 20px !important;
+}
+@media (max-width: 992px){
+    .ferrco_info_img{
+        padding-top: 10% !important;
+    }
+    .button_css{
+        width: 60%;
+    }
+}
+
+/* Oferta */
+.oferta_text{
+    padding-left: 20% !important;
+    padding-right: 20% !important;
+}
+
+/* Nasze realizacje */
+.nasze_realizacje_box{
+    width: 305px;
+    height: 255px;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+    border-bottom-left-radius: 5%;
+}
+.nasze_realizacje_box_type2{
+    width: 306px !important;
+    height: 532px !important;
+}
+@media(max-width:992px){
+    .nasze_realizacje_box{
+        margin-left: auto;
+        margin-right: auto;
+        margin-top: 20px;
+    }
+}
+.nasze_realizacje_button{
+    margin-left: 78%;
+    margin-bottom: -100%;
+    width: 42px;
+    height: 42px;
+    background: rgba(255, 255, 255, 0.50) !important;
+    border-radius: 50% !important;
+}
+.nasze_realizacje_button2{
+    margin-left: 78% !important;
+    margin-bottom: -278% !important;
+}
+.nasze_realizacje_box:hover{background-image: url('img/red.png');}
+.nasze_realizacje_box1{background-image: url('img/ferrco_nasze_realizacje_img1.png');}
+.nasze_realizacje_box2{background-image: url('img/ferrco_nasze_realizacje_img2.png');}
+.nasze_realizacje_box3{background-image: url('img/ferrco_nasze_realizacje_img3.png');}
+.nasze_realizacje_box4{background-image: url('img/ferrco_nasze_realizacje_img4.png');}
+.nasze_realizacje_box5{background-image: url('img/ferrco_nasze_realizacje_img5.png');}
+.nasze_realizacje_box6{background-image: url('img/ferrco_nasze_realizacje_img6.png');}
+
+/* footer */
+.page-footer img{
+    margin-left: 300px;
+}
+@media (max-width: 992px){
+    .page-footer img{
+        margin-left: 30px;
+    }
+}
+.footer_page {
+    border-top: 3px solid #a00315;
+    border-bottom: 1px solid #909090;
+}
+
+.footer_text b{
+    font-style: bold;
+    font-size: large;
+}
